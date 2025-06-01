@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Old-hacker01 "><img title="Github" src="https://img.shields.io/badge/Old-hacker01-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Old-hacker01-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/Old-hacker01"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Old-hacker01-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Old-hacker01"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
@@ -98,14 +98,14 @@ __EXIT__ :
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/Old-hacker01-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/Old-hacker01"><img title="YouTube" src="https://img.shields.io/badge/YouTube 45Tech-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
 
